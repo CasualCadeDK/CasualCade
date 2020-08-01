@@ -21,4 +21,8 @@ Dette er chat regler både på discord og in-game
 
 ## Kreativ
 * Griefing er ikke tilladt
-* Reklamering med /live er tilladt (Dog så længe du faktisk spiller på serveren og ikke spammer det for meget)
+  - Du er selv ansvarlig for dine plots og verdener i sidste ende.
+  - Vi har værktøjer der kan hjælpe hvis tilfældet er at man bliver udsat for grief. Det gælder både rollback og backups.
+  - Et godt råd er at tage en schematic af sine ting med //copy og //schematic save (navn)
+* Reklamering med /live er tilladt
+  - Dog så længe du faktisk spiller på serveren og ikke spammer det for meget
