@@ -18,4 +18,15 @@ https://github.com/CasualCadeDK/CasualCade/blob/master/Regler.md
 Ja, alle mods og klienter er tilladte.
 
 ## Kan jeg ansøge om staff?
-Det er ikke noget vi tager imod
+Det er ikke noget vi tager imod lige p.t. eftersom vi ikke mener der hverken er brug for mods eller hjælper.
+Dog søger vi nogen som er dedikeret nok til at håndtere et helt gamemode/server som f.eks. KitPvP, Prison eller Survival. Flere detajler om dette kan man kontakte Mwthorn på discord.
+
+## Hvem ejer CasualCade?
+ThornBot
+
+## Jeg har fundet en fejl, hvor rapportere jeg det
+https://github.com/CasualCadeDK/CasualCade/issues/new
+Hvis det er kritisk, f.eks. at fejlen kan misbruges. Så kan man skrive privat til Mwthorn på Discord.
+
+## Jeg har et forslag eller ide til forbedring eller ændring
+https://github.com/CasualCadeDK/CasualCade/issues/new
