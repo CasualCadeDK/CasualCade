@@ -24,9 +24,10 @@ Dog søger vi nogen som er dedikeret nok til at håndtere et helt gamemode/serve
 ## Hvem ejer CasualCade?
 ThornBot
 
-## Jeg har fundet en fejl, hvor rapportere jeg det
+## Jeg har fundet en fejl, hvor rapportere jeg det?
 https://github.com/CasualCadeDK/CasualCade/issues/new
+
 Hvis det er kritisk, f.eks. at fejlen kan misbruges. Så kan man skrive privat til Mwthorn på Discord.
 
-## Jeg har et forslag eller ide til forbedring eller ændring
+## Jeg har et forslag eller ide til forbedring eller ændring?
 https://github.com/CasualCadeDK/CasualCade/issues/new
