@@ -29,5 +29,21 @@ https://github.com/CasualCadeDK/CasualCade/issues/new
 
 Hvis det er kritisk, f.eks. at fejlen kan misbruges. Så kan man skrive privat til Mwthorn på Discord.
 
-## Jeg har et forslag eller ide til forbedring eller ændring?
+## Jeg har et forslag, forbedring eller ændring. Hvor kan jeg sende dem?
 https://github.com/CasualCadeDK/CasualCade/issues/new
+
+## Hvordan uploader/overfører jeg et map, schematic eller build til serveren?
+Hvis du er verified på vores Discord:
+- Send en schematic fil privat til ThornBot, så sender den automatisk filen videre til din schematic mappe på serveren
+- //schematic list
+- //schematic load (navn)
+- //paste
+
+## Hvordan kan jeg download mine builds/plots og verden?
+Hvis du er verified på vores Discord:
+- Marker området med WorldEdit: //wand
+- //copy
+- //schematic save (navn)
+- //schematic list
+- /dd (navn)
+Du burde så modtage en privat besked fra ThornBot med schematic filen du har oprettet. Husk at slå modtagelse af private beskeder til i indstillinger på Discord.
