@@ -35,15 +35,18 @@ https://github.com/CasualCadeDK/CasualCade/issues/new
 ## Hvordan uploader/overfører jeg et map, schematic eller build til serveren?
 Hvis du er verified på vores Discord:
 - Send en schematic fil privat til ThornBot, så sender den automatisk filen videre til din schematic mappe på serveren
-- //schematic list
-- //schematic load (navn)
-- //paste
+- `//schematic list`
+- `//schematic load (navn)`
+- `//paste`
 
 ## Hvordan kan jeg download mine builds/plots og verden?
 Hvis du er verified på vores Discord:
-- Marker området med WorldEdit: //wand
-- //copy
-- //schematic save (navn)
-- //schematic list
-- /dd (navn)
-Du burde så modtage en privat besked fra ThornBot med schematic filen du har oprettet. Husk at slå modtagelse af private beskeder til i indstillinger på Discord.
+- `//wand`
+- Marker området med træ øksen. Højre-klik et hjørne og venstre-klik det modsatte hjørne.
+- `//expand vert` 
+- `//copy`
+- `//schematic save (navn)`
+- `//schematic list`
+- På discord, slå modtagelse af private beskeder til i indstillinger hvis du har slået dem fra.
+- `/dd (navn)`
+- Du burde have modtaget en privat besked fra ThornBot med filen.
