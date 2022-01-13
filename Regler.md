@@ -10,13 +10,13 @@ Dette er chat regler både på discord og in-game
   - Vi alle kender skam godt de andre servere så det ikke så slemt hvis ens formål ikke er direkte reklamering, bare rolig.
 * Negative diskussioner foregår privat.
   - Generelt så skal man respektere hinanden og ikke have had imod andre fra andre steder bragt hertil.
-  - Vi kender alle godt de når 2 eller flere begynder at skrive grimt til hinanden i den offentlige chat.
-  - Man kan sige det giver noget drama og form for underholdning men det påvirker stadig stemningen negativ.
   - Det gør den offentlige stemning negativ når sådan en situation opstår og derfor burde det tages privat istedet.
 
 ## Discord
 * Reklamering igennem privat beskeder antages som spam som ikke er tilladt.
+  - Dette gælder også falske links.
   - Hvis du modtager tit sådan nogle beskeder, så kan man selv gå i sine discord indstillinger og slå direkte-beskeder fra personer man ikke er venner med.
+  - Discord tilbyder nu også at man kan anmelde disse beskeder så brug det når det er muligt.
 * Vi følger Discord ToS og Retningslinjer. Derfor gælder deres regler også her.
 
 ## Kreativ
