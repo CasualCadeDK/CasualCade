@@ -4,10 +4,9 @@ Nogen ting på CasualCade.dk er gjort anderledes så derfor bliver vi nød til a
 
 ## Chat
 Dette er chat regler både på discord og in-game
-* Reklamering er tilladt i et begrænset omfang.
-  - Vi ser ikke så hårdt på reklamering, dog skal det ikke misbruges.
-  - Det fint nok at sende links eller IP'er i den offentlige chat så længe det har sammenhæng med samtaler i voice eller i chatten. 
-  - Vi alle kender skam godt de andre servere så det ikke så slemt hvis ens formål ikke er direkte reklamering, bare rolig.
+* Spam ikke tilladt
+  - Spam inkludere også beskeder som ikke har kontekst. F.eks. en tilfældig GIF posted på discord eller tilfældigt "probe" af ord for en reaktion.
+  - Reklamering antages også som spam. Det fint nok at sende links eller IP'er i den offentlige chat så længe det har sammenhæng med samtaler i voice eller i chatten. Vi alle kender godt de andre servere så det ikke så slemt hvis ens formål ikke er direkte reklamering, bare rolig.
 * Negative diskussioner foregår privat.
   - Generelt så skal man respektere hinanden og ikke have had imod andre fra andre steder bragt hertil.
   - Det gør den offentlige stemning negativ når sådan en situation opstår og derfor burde det tages privat istedet.
